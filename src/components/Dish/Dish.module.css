@@ -1,0 +1,10 @@
+.dish{
+    color:blue;
+}
+.success{
+    background-color: rgb(0, 255, 47);
+}
+
+.error{
+    background-color: red;
+}
